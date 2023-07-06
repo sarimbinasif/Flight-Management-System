@@ -5,7 +5,7 @@ for a flight management system. The program provides a user-friendly interface w
 on customer records, such as adding new customers, registering flights, and generating tickets. The customer records
 are stored in a text file for easy access and persistence.
 
-##Usage
+## Usage
 
 Upon running the program, a menu will be displayed with the following options:
 
