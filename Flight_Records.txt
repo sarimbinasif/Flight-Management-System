@@ -5,4 +5,4 @@ Customer Id: 1
 Customer Name: sarim
 Customer Gender: male
 Customer destination: France
-Flight Cost 35000
+Flight Cost: 35000
