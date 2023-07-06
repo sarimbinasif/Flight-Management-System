@@ -1,0 +1,8 @@
+ _____QATAR AIRWAYS___
+______Tickets______
+__________________________
+Customer Id: 1
+Customer Name: sarim
+Customer Gender: male
+Customer destination: France
+Flight Cost 35000
